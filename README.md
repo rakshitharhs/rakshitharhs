@@ -28,3 +28,4 @@ I'm a software developer passionate about creating awesome projects.
 
 
 Feel free to reach out and connect with me!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakshitharhs/)
